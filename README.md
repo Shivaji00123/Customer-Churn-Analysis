@@ -28,4 +28,4 @@ Microsoft Excel, Python, SQL Server, Power BI.
 - How do monthly charges vary according to Online Security and Online Backup subscriptions?
 - How does customer churn vary across different payment methods?
 
-- Dashboard Interaction
+- Dashboard Interaction <a href="https://github.com/Shivaji00123/Customer-Churn-Analysis/blob/main/Customer%20Churn%20Analysis%20Dashoboard.png">View Dashboard</a>
