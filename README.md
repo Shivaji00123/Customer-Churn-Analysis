@@ -13,5 +13,17 @@ The dataset for this project was obtained from a publicly available online sourc
 Microsoft Excel, Python, SQL Server, Power BI.
 
 ## Dataset Used 
-
 - <a href="https://github.com/Shivaji00123/Customer-Churn-Analysis/blob/main/telco_churn_unclean.csv">Dataset</a>
+
+## Questions (KPIs)
+- What is the total number of customers?	
+- How many customers have churned?	
+- What is the overall customer churn rate?	
+- What is the proportion of retained customers versus churned customers?
+- Which customer tenure group has the highest churn rate?
+- How many retained customers belong to Normal Risk and High Risk categories?
+- How do average monthly charges compare between retained and churned customers?
+- Which contract type has the highest number of churned customers?
+- Which gender has the highest number of churned customers?
+- How do monthly charges vary according to Online Security and Online Backup subscriptions?
+- How does customer churn vary across different payment methods?
