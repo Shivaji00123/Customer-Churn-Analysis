@@ -27,3 +27,5 @@ Microsoft Excel, Python, SQL Server, Power BI.
 - Which gender has the highest number of churned customers?
 - How do monthly charges vary according to Online Security and Online Backup subscriptions?
 - How does customer churn vary across different payment methods?
+
+- Dashboard Interaction
