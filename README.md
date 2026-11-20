@@ -13,3 +13,5 @@ The dataset for this project was obtained from a publicly available online sourc
 Microsoft Excel, Python, SQL Server, Power BI.
 
 ## Dataset Used 
+
+- <a href="https://github.com/Shivaji00123/Customer-Churn-Analysis/blob/main/telco_churn_unclean.csv">Dataset</a>
